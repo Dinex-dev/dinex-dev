@@ -1,5 +1,5 @@
 <h1 align="center"><img alt="Hola" height="30px" width="40px" src="https://emojipedia-us.s3.amazonaws.com/source/skype/289/ghost_1f47b.png"/>Welcome I'm <img src='https://camo.githubusercontent.com/a00365181dee3899c9f03eb2680300fc3ee9bd15d5e68eadd436c829d5ecf2d4/68747470733a2f2f632e74656e6f722e636f6d2f665967393171427044646741414141692f626f6e676f2d6361742d7472616e73706172656e742e676966' height="37px"/>
-  <p><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=1976d2&size=35&center=true&vCenter=true&width=600&height=30&lines=Dinesh+Thakur..&hearts;++;Full-Stack+Web+Developer,;Learning%20Data%20Science,;BCA+Student,;CTF+Newbie,;Active+Learner.." alt="Dinesh Thakur"></p>
+  <p><img src="https://readme-typing-svg.herokuapp.com/?font=Time+New+Roman&color=1976d2&size=35&center=true&vCenter=true&width=600&height=30&lines=Dinesh+Thakur..&hearts;++;Full-Stack+Web+Developer,;Learning%20Data%20Science,;CTF+Newbie,;Active+Learner.." alt="Dinesh Thakur"></p>
 </h1>
 
 <p align="center">
