@@ -30,9 +30,9 @@
 
 
 <h2>Github Stats : </h2>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinex-dev&show_icons=true&locale=en&layout=compact&theme=transparent" alt="dinex-dev" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dinex-dev&show_icons=true&locale=en&layout=compact&theme=transparent&count_private=true" alt="dinex-dev" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinex-dev&show_icons=true&locale=en&theme=transparent" alt="dinex-dev" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dinex-dev&show_icons=true&locale=en&theme=transparent&count_private=true" alt="dinex-dev" /></p>
 
 <h2 align="center"><img alt="chika" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"/>Connect with me:<img alt="chika" align="center" height="70px" width="70px" src="https://c.tenor.com/cXlrPENTVkEAAAAi/chika-dance.gif"/></h2>
 <p align="left">
