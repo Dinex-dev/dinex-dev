@@ -10,7 +10,7 @@
       
 - <img src="https://archlinux.org/logos/archlinux-icon-crystal-64.svg" height="15" alt="Arch linux"/> Arch Supremecy
       
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **NextJs**
 
 - 💬 Ask me about web Development or any tech-related stuff.
       
